@@ -1,7 +1,7 @@
 # React + TypeScript + Vite
 
 Link Project: 
--https://search-country.pages.dev/
+https://search-country.pages.dev/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
